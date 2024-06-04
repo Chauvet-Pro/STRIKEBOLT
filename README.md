@@ -1,4 +1,4 @@
-# STRIKEBOLT
+# STRIKE Bolt
 
 ## Software Versions
 
